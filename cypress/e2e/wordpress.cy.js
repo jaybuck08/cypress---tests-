@@ -18,7 +18,7 @@ describe("wordpress Login", () => {
         })
 
         // cy.getIframeBody("iframe[name='editor-canvas']").find(".wp-block-post-title")
-        // cy.get(".wp-block-post-title").type("Mike Tyson & Jake Paul")
+        // cy.get(".wp-block-post-title").type("Mike Tyson & Jake Paul").
 
 
     })
